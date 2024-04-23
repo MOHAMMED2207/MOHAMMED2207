@@ -1,22 +1,9 @@
-<h1 style="font-family: sans-serif; font-size: 26px">
-      Hi 👋, I'm Mohamed Abdul Fatah
-    </h1>
+# Hi 👋, I'm Mohamed Abdul Fatah
 
-    <h3 style="font-family: sans-serif">
-      A Passionate Full Stack Developer From Egypt
-    </h3>
-    <h3 style="font-family: sans-serif; line-height: 1.6">
-      You're an experienced front-end developer with 2 years of hands-on
-      experience, focused on creating engaging and user-friendly web interfaces.
-      You've contributed to the success of Smartinia Company, staying up-to-date
-      with the latest industry trends and technologies. Your expertise includes
-      building responsive web apps integrated with APIs to meet client needs.
-      You're proficient in HTML, CSS, JavaScript, TypeScript, and modern
-      libraries/frameworks like React.js, Next.js, Tailwind CSS, Redux, SASS,
-      and Bootstrap. You also have skills in MySQL, C#, and ASP.NET. Your
-      strengths lie in responsive design, mobile-first development,
-      cross-browser compatibility, and performance optimization.
-    </h3>
+### A Passionate Full Stack Developer From Egypt
+
+You're an experienced front-end developer with 2 years of hands-on experience, focused on creating engaging and user-friendly web interfaces. You've contributed to the success of Smartinia Company, staying up-to-date with the latest industry trends and technologies. Your expertise includes building responsive web apps integrated with APIs to meet client needs. You're proficient in HTML, CSS, JavaScript, TypeScript, and modern libraries/frameworks like React.js, Next.js, Tailwind CSS, Redux, SASS, and Bootstrap. You also have skills in MySQL, C#, and ASP.NET. Your strengths lie in responsive design, mobile-first development, cross-browser compatibility, and performance optimization.
+
 
 - 🌱 I’m currently learning **R**
 
