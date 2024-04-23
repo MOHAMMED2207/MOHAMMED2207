@@ -1,5 +1,22 @@
-<h1 align="center">Hi 👋, I'm Mohamed Abdul Fatah</h1>
-<h3 align="center">A Passionate Full Stack Developer From Egypt I am an experienced front-end developer with a passion for crafting engaging and user-friendly web interfaces. Over the past months, I have honed my skills and expertise in the dynamic field of web development, contributing to the success of smartinia Company. Years of Experience: I have 2 years of hands-on experience in front-end development, consistently staying up-to-date with the latest industry trends and technologies. Industry Knowledge: I possess a deep understanding of the intricacies of web development, with a focus on creating seamless and visually appealing user experiences. My industry knowledge extends to create a full responsive web app integrated with API to achieve Client need, Skills: Experienced in Building content management system CMS to manage front websites Contents. Proficient in HTML, CSS, and JavaScript , TypeScript with expertise in modern libraries and frameworks like REACTJs, NEXTJs , TAILWINDE CSS , REDUX , SASS , MUi , Bootstrap , MySql , C# , website Asp.Net Strong command of responsive design principles and mobile-first development. Familiarity with cross-browser compatibility and performance optimization.</h3>
+<h1 style="font-family: sans-serif; font-size: 26px">
+      Hi 👋, I'm Mohamed Abdul Fatah
+    </h1>
+
+    <h3 style="font-family: sans-serif">
+      A Passionate Full Stack Developer From Egypt
+    </h3>
+    <h3 style="font-family: sans-serif; line-height: 1.6">
+      You're an experienced front-end developer with 2 years of hands-on
+      experience, focused on creating engaging and user-friendly web interfaces.
+      You've contributed to the success of Smartinia Company, staying up-to-date
+      with the latest industry trends and technologies. Your expertise includes
+      building responsive web apps integrated with APIs to meet client needs.
+      You're proficient in HTML, CSS, JavaScript, TypeScript, and modern
+      libraries/frameworks like React.js, Next.js, Tailwind CSS, Redux, SASS,
+      and Bootstrap. You also have skills in MySQL, C#, and ASP.NET. Your
+      strengths lie in responsive design, mobile-first development,
+      cross-browser compatibility, and performance optimization.
+    </h3>
 
 - 🌱 I’m currently learning **R**
 
