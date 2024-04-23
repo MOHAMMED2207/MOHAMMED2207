@@ -4,12 +4,8 @@
 
 You're an experienced front-end developer with 2 years of hands-on experience, focused on creating engaging and user-friendly web interfaces. You've contributed to the success of Smartinia Company, staying up-to-date with the latest industry trends and technologies. Your expertise includes building responsive web apps integrated with APIs to meet client needs. You're proficient in HTML, CSS, JavaScript, TypeScript, and modern libraries/frameworks like React.js, Next.js, Tailwind CSS, Redux, SASS, and Bootstrap. You also have skills in MySQL, C#, and ASP.NET. Your strengths lie in responsive design, mobile-first development, cross-browser compatibility, and performance optimization.
 
-- 🌱 I’m currently learning **R**
-
 - 👨‍💻 All of my projects are available at [https://portfolio-new-style-react-2.vercel.app/](https://portfolio-new-style-react-2.vercel.app/)
-
 - 📫 How to reach me **mohammedabdulfatahsaid@gmail.com**
-
 - 📄 Know about my experiences [https://drive.google.com/file/d/1OzpcsCPpvitXaVsb5m-DUOSYt9f5iBgT/view](https://drive.google.com/file/d/1OzpcsCPpvitXaVsb5m-DUOSYt9f5iBgT/view)
 
 # 💻 Tech Stack:
@@ -20,7 +16,3 @@ You're an experienced front-end developer with 2 years of hands-on experience, f
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/MooMohammed0000/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/moo_mohammed_64/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mohammed-abdul-fatah-58959a256/)
 
-
-# 📊 GitHub Stats:
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=mohamed&theme=dark&hide_border=false)<br/>
