@@ -6,7 +6,7 @@ You're an experienced front-end developer with 2 years of hands-on experience, f
 
 - 👨‍💻 All of my projects are available at [https://portfolio-new-style-react-2.vercel.app/](https://portfolio-new-style-react-2.vercel.app/)
 - 📫 How to reach me **mohammedabdulfatahsaid@gmail.com**
-- 📄 Know about my experiences [https://drive.google.com/file/d/1El0-SSAtmtXRGlNJdZ0WD9ocp3b7yVo_/view?usp=drive_link(https://drive.google.com/file/d/1El0-SSAtmtXRGlNJdZ0WD9ocp3b7yVo_/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1El0-SSAtmtXRGlNJdZ0WD9ocp3b7yVo_/view](https://drive.google.com/file/d/1El0-SSAtmtXRGlNJdZ0WD9ocp3b7yVo_/view)
 
 # 💻 Tech Stack:
 
